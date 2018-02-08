@@ -1,0 +1,461 @@
+[
+  {
+    "type" : "movie",
+    "name" : "The LEGO Batman Movie",
+    "genre" : "Comedy",
+    "release date" : "2017",
+    "director" : "Chris McKay",
+    "trailer" : "https://www.youtube.com/watch?v=h6DOpfJzmo0",
+    "synopsis" : "There are big changes brewing in Gotham, but if Batman (Will Arnett) wants to save the city from the Joker's (Zach Galifianakis) hostile takeover, he may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up. Maybe his superhero sidekick Robin (Michael Cera) and loyal butler Alfred (Ralph Fiennes) can show him a thing or two."
+  },
+  {
+    "type" : "movie",
+    "name" : "Hostel",
+    "genre" : "Thriller",
+    "release date" : "2005",
+    "director" : "Eli Roth",
+    "trailer" : "https://www.youtube.com/watch?v=DLxonzr9Iew",
+    "synopsis" : "Best friends Josh (Derek Richardson) and Paxton (Jay Hernandez) decide to spend the summer after college graduation on an all-out backpacking trip across Europe. While stopping in Amsterdam to indulge their tastes for drugs and sex, they meet Oli (Eythor Gudjonsson), a like-minded traveler from Iceland. When the three bachelors set off to investigate enticing rumors of a Slovakian hostel in a city populated by lusty women, they find themselves drawn unwittingly into a deadly game."
+  },
+  {
+    "type" : "movie",
+    "name" : "Inception",
+    "genre" : "Science-Fiction",
+    "release date" : "2010",
+    "director" : "Christopher Nolan",
+    "trailer" : "https://www.youtube.com/watch?v=8hP9D6kZseM",
+    "synopsis" : "Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone's mind. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move."
+  },
+  {
+    "type" : "movie",
+    "name" : "Intouchables",
+    "genre" : "Comedy",
+    "release date" : "2011",
+    "director" : "Olivier Nakache",
+    "trailer" : "https://www.youtube.com/watch?v=cXu2MhWYUuE",
+    "synopsis" : "An unlikely friendship develops between a wealthy quadriplegic (François Cluzet) and his caretaker (Omar Sy), just released from prison."
+  },
+  {
+    "type" : "movie",
+    "name" : "The English Patient",
+    "genre" : "Drama",
+    "release date" : "1996",
+    "director" : "Anthony Minghella",
+    "trailer" : "https://www.youtube.com/watch?v=Xk_LRcOFT0c",
+    "synopsis" : "The sweeping expanses of the Sahara are the setting for a passionate love affair in this adaptation of Michael Ondaatje's novel. A badly burned man, Laszlo de Almasy (Ralph Fiennes), is tended to by a nurse, Hana (Juliette Binoche), in an Italian monastery near the end of World War II. His past is revealed through flashbacks involving a married Englishwoman (Kristin Scott Thomas) and his work mapping the African landscape. Hana learns to heal her own scars as she helps the dying man."
+  },
+  {
+    "type" : "movie",
+    "name" : "The Lord of the Rings: The Two Towers",
+    "genre" : "Adventure",
+    "release date" : "2002",
+    "director" : "Peter Jackson",
+    "trailer" : "https://www.youtube.com/watch?v=cvCktPUwkW0",
+    "synopsis" : "The sequel to the Golden Globe-nominated and AFI Award-winning 'The Lord of the Rings: The Fellowship of the Ring, The Two Towers' follows the continuing quest of Frodo (Elijah Wood) and the Fellowship to destroy the One Ring. Frodo and Sam (Sean Astin) discover they are being followed by the mysterious Gollum. Aragorn (Viggo Mortensen), the Elf archer Legolas and Gimli the Dwarf encounter the besieged Rohan kingdom, whose once great King Theoden has fallen under Saruman's deadly spell."
+  },
+  {
+    "type" : "movie",
+    "name" : "Seven",
+    "genre" : "Thriller",
+    "release date" : "1995",
+    "director" : "David Fincher",
+    "trailer" : "https://www.youtube.com/watch?v=znmZoVkCjpI",
+    "synopsis" : "When retiring police Detective William Somerset (Morgan Freeman) tackles a final case with the aid of newly transferred David Mills (Brad Pitt), they discover a number of elaborate and grizzly murders. They soon realize they are dealing with a serial killer (Kevin Spacey) who is targeting people he thinks represent one of the seven deadly sins. Somerset also befriends Mills' wife, Tracy (Gwyneth Paltrow), who is pregnant and afraid to raise her child in the crime-riddled city."
+  },
+  {
+    "type" : "movie",
+    "name" : "Shutter Island",
+    "genre" : "Thriller",
+    "release date" : "2010",
+    "director" : "Martin Scorsese",
+    "trailer" : "https://www.youtube.com/watch?v=5iaYLCiq5RM",
+    "synopsis" : "The implausible escape of a brilliant murderess brings U.S. Marshal Teddy Daniels (Leonardo DiCaprio) and his new partner (Mark Ruffalo) to Ashecliffe Hospital, a fortress-like insane asylum located on a remote, windswept island. The woman appears to have vanished from a locked room, and there are hints of terrible deeds committed within the hospital walls. As the investigation deepens, Teddy realizes he will have to confront his own dark fears if he hopes to make it off the island alive."
+  },
+  {
+    "type" : "movie",
+    "name" : "Star Wars Empire",
+    "genre" : "Science-Fiction",
+    "release date" : "1980",
+    "director" : "George Lucas",
+    "trailer" : "https://www.youtube.com/watch?v=mz_YWNhKOkM",
+    "synopsis" : "The adventure continues in this Star Wars sequel. Luke Skywalker (Mark Hamill), Han Solo (Harrison Ford), Princess Leia (Carrie Fisher) and Chewbacca (Peter Mayhew) face attack by the Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only with the Jedi master's help will Luke survive when the dark side of the Force beckons him into the ultimate duel with Darth Vader (David Prowse)."
+  },
+  {
+    "type" : "movie",
+    "name" : "Survive Style 5+",
+    "genre" : "Comedy",
+    "release date" : "2004",
+    "director" : "Gen Sekiguchi",
+    "trailer" : "https://www.youtube.com/watch?v=LEH7nDkiPEk",
+    "synopsis" : "Synopsis. The film follows five simultaneous, loosely linked plot lines, that intertwine and scramble together. A man (Tadanobu Asano) keeps killing his wife (Reika Hashimoto) and burying her in the woods only to find her alive, furious, and waiting for him when he returns home."
+  },
+  {
+    "type" : "movie",
+    "name" : "Swiss Army Man",
+    "genre" : "Comedy",
+    "release date" : "2016",
+    "director" : "Dan Kwan",
+    "trailer" : "https://www.youtube.com/watch?v=hFY-f7BXwZw",
+    "synopsis" : "Being stranded on a deserted island leaves young Hank (Paul Dano) bored, lonely and without hope. As a rope hangs around his neck, Hank prepares to end it all, until he suddenly spots a man (Daniel Radcliffe) laying by the shore. Unfortunately, he is dead and quite flatulent. Using the gassy body to his advantage, Hank miraculously makes it back to the mainland. However, he now finds himself lost in the wilderness, and dragging the talking corpse named Manny along for the adventure."
+  },
+  {
+    "type" : "movie",
+    "name" : "The fall",
+    "genre" : "Drama",
+    "release date" : "2006",
+    "director" : "Tarsem Singh",
+    "trailer" : "https://www.youtube.com/watch?v=M61UL-OESV4",
+    "synopsis" : "A bedridden patient (Lee Pace) captivates a hospitalized girl (Catinca Untaru) with a fantastic tale involving heroes, mystics and villains on a desert island."
+  },
+  {
+    "type" : "movie",
+    "name" : "What We Do In The Shadow",
+    "genre" : "Comedy",
+    "release date" : "2014",
+    "director" : "Taika Waititi",
+    "trailer" : "https://www.youtube.com/watch?v=IAZEWtyhpes",
+    "synopsis" : "Vampire housemates (Jemaine Clement, Taika Waititi, Jonathan Brugh) try to cope with the complexities of modern life and show a newly turned hipster (Cori Gonzalez-Macuer) some of the perks of being undead."
+  },
+  {
+    "type" : "movie",
+    "name" : "Jumanji",
+    "genre" : ["Fantastic", "Action"],
+    "release date" : "2017",
+    "director" : "Jake Kasdan",
+    "trailer" : "https://www.youtube.com/watch?v=2QKg5SZ_35I",
+    "synopsis" : "Four high school kids discover an old video game console and are drawn into the game's jungle setting, literally becoming the adult avatars they chose. What they discover is that you don't just play Jumanji - you must survive it. To beat the game and return to the real world, they'll have to go on the most dangerous adventure of their lives, discover what Alan Parrish left 20 years ago, and change the way they think about themselves - or they'll be stuck in the game forever."
+  },
+  {
+    "type" : "movie",
+    "name" : "Zoolander",
+    "genre" : "Comedy",
+    "release date" : "2001",
+    "director" : "Ben Stiller",
+    "trailer" : "https://www.youtube.com/watch?v=YtQq0T3ExLs",
+    "synopsis" : "Propelled to the top of the fashion world by a photogenic gaze he calls Blue Steel, dimwitted male model Derek Zoolander (Ben Stiller) thinks he's got a fourth consecutive win as Male Model of the Year in the bag. But, when his rival, Hansel (Owen Wilson), unexpectedly takes the crown, Derek is crushed. He becomes easy prey for fashion designer Jacobim Mugatu (Will Ferrell), who signs Derek to star in his Derelicte fashion show, then brainwashes him to kill Malaysia's prime minister."
+  },
+  {
+    "type" : "movie",
+    "name" : "Atomik Circus",
+    "genre" : "Comedy",
+    "release date" : "2004",
+    "director" : "Thierry Poiraud",
+    "trailer" : "https://www.youtube.com/watch?v=_WPBXwZcRdc",
+    "synopsis" : "A man (Jason Flemyng) escapes from prison for a reunion with his sweetheart (Vanessa Paradis) just as aliens attack."
+  },
+  {
+    "type" : "movie",
+    "name" : "Usual Suspect",
+    "genre" : "Thriller",
+    "release date" : "1995",
+    "director" : "Bryan Singer",
+    "trailer" : "https://www.youtube.com/watch?v=oiXdPolca5w",
+    "synopsis" : "The greatest trick the devil ever pulled was convincing the world he didn't exist, says con man Kint (Kevin Spacey), drawing a comparison to the most enigmatic criminal of all time, Keyser Soze. Kint attempts to convince the feds that the mythic crime lord not only exists, but is also responsible for drawing Kint and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro Harbor - leaving few survivors."
+  },
+  {
+    "type" : "movie",
+    "name" : "God Bless America",
+    "genre" : "Comedy Dramatric",
+    "release date" : "2011",
+    "director" : "Bobcat Goldthwait",
+    "trailer" : "https://www.youtube.com/watch?v=NaEjtiqCw4Q",
+    "synopsis" : "Fed up with the cruelty and stupidity of American culture, an unlikely duo (Joel Murray, Tara Lynne Barr) team up to whack reality TV stars, bigots and others they find repugnant."
+  },
+  {
+    "type" : "movie",
+    "name" : "Pulp Fiction",
+    "genre" : ["Policier", "Thriller"],
+    "release date" : "1994",
+    "director" : "Quentin Tarantino",
+    "trailer" : "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "synopsis" : "Vincent Vega (John Travolta) and Jules Winnfield (Samuel L. Jackson) are hitmen with a penchant for philosophical discussions. In this ultra-hip, multi-strand crime movie, their storyline is interwoven with those of their boss, gangster Marsellus Wallace (Ving Rhames) ; his actress wife, Mia (Uma Thurman) ; struggling boxer Butch Coolidge (Bruce Willis) ; master fixer Winston Wolfe (Harvey Keitel) and a nervous pair of armed robbers, 'Pumpkin' (Tim Roth) and 'Honey Bunny' (Amanda Plummer)."
+  },
+  {
+    "type" : "movie",
+    "name" : "Alien, the 8th passenger",
+    "genre" : ["Science-Fiction", "Horreur"],
+    "release date" : "1979",
+    "director" : "Ridley Scott",
+    "trailer" : "https://www.youtube.com/watch?v=jQ5lPt9edzQ",
+    "synopsis" : "In deep space, the crew of the commercial starship Nostromo is awakened from their cryo-sleep capsules halfway through their journey home to investigate a distress call from an alien vessel. The terror begins when the crew encounters a nest of eggs inside the alien ship. An organism from inside an egg leaps out and attaches itself to one of the crew, causing him to fall into a coma."
+  },
+  {
+    "type" : "movie",
+    "name" : "Predator",
+    "genre" : ["Fantastique", "Action"],
+    "release date" : "1987",
+    "director" : "John McTiernan",
+    "trailer" : "https://www.youtube.com/watch?v=Y1txEAywdiw",
+    "synopsis" : "Dutch (Arnold Schwarzenegger), a soldier of fortune, is hired by the U.S. government to secretly rescue a group of politicians trapped in Guatemala. But when Dutch and his team, which includes weapons expert Blain (Jesse Ventura) and CIA agent George (Carl Weathers), land in Central America, something is gravely wrong. After finding a string of dead bodies, the crew discovers they are being hunted by a brutal creature with superhuman strength and the ability to disappear into its surroundings."
+  },
+  {
+    "type" : "movie",
+    "name" : "Terminator",
+    "genre" : "Science-Fiction",
+    "release date" : "1985",
+    "director" : "James Cameron",
+    "trailer" : "https://www.youtube.com/watch?v=k64P4l2Wmeg",
+    "synopsis" : "Disguised as a human, a cyborg assassin known as a Terminator (Arnold Schwarzenegger) travels from 2029 to 1984 to kill Sarah Connor (Linda Hamilton). Sent to protect Sarah is Kyle Reese (Michael Biehn), who divulges the coming of Skynet, an artificial intelligence system that will spark a nuclear holocaust. Sarah is targeted because Skynet knows that her unborn son will lead the fight against them. With the virtually unstoppable Terminator in hot pursuit, she and Kyle attempt to escape."
+  },
+  {
+    "type" : "movie",
+    "name" : "Battle Royale",
+    "genre" : ["Action", "Adventure"],
+    "release date" : "2001",
+    "director" : "Kinji Fukasaku",
+    "trailer" : "https://www.youtube.com/watch?v=N0p1t-dC7Ko",
+    "synopsis" : "42 9th graders are sent to a deserted island. They are given a map, food, and various weapons. An explosive collar is fitted around their neck. If they break a rule, the collar explodes. Their mission: kill each other and be the last one standing. The last survivor is allowed to leave the island. If there is more than one survivor, the collars explode and kill them all."
+  },
+  {
+    "type" : "movie",
+    "name" : "American Nightmare (The purge)",
+    "genre" : "Thriller",
+    "release date" : "2013",
+    "director" : "James DeMonaco",
+    "trailer" : "https://www.youtube.com/watch?v=K0LLaybEuzA",
+    "synopsis" : "In an America ravaged by crime and overcrowded prisons, the government sanctions an annual 12-hour period during which all criminal activity -- including murder -- is legal. James Sandin (Ethan Hawke) and his family face the ultimate test when an intruder drags the vicious outside world into their home. James, Mary (Lena Headey) and their two children struggle to survive the night while trying not to turn into monsters like the ones they are striving to avoid."
+  },
+
+
+  {
+    "type" : "serie",
+    "name" : "Earl",
+    "genre" : "Comedy",
+    "release date" : "2005",
+    "Number Of Seasons" : "4",
+    "Number Of Episodes" : "96",
+    "trailer" : "https://www.youtube.com/watch?v=LyAKsyDN_04",
+    "synopsis" : "A ne'er do well wins $100,000 in the lottery and decides to right all the wrongs from his past with his newfound realization."
+  },
+  {
+    "type" : "serie",
+    "name" : "Criminal minds",
+    "genre" : ["Police", "Thriller"],
+    "release date" : "2005",
+    "Number Of Season" : "13",
+    "Number Of Episod" : "290",
+    "trailer" : "https://www.youtube.com/watch?v=NTYxiJBbEZk",
+    "synopsis" : "The cases of the F.B.I. Behavioral Analysis Unit (B.A.U.), an elite group of profilers who analyze the nation's most dangerous serial killers and individual heinous crimes in an effort to anticipate their next moves before they strike again."
+  },
+  {
+    "type" : "serie",
+    "name" : "Gotham",
+    "genre" : ["Police", "Action"],
+    "release date" : "2014",
+    "Number Of Season" : "4",
+    "Number Of Episod" : "77",
+    "trailer" : "https://www.youtube.com/watch?v=0d1zpt6k5OI",
+    "synopsis" : "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.
+"
+  },
+  {
+    "type" : "serie",
+    "name" : "Game Of Thrones",
+    "genre" : "Fantasy",
+    "release date" : "2011",
+    "Number Of Season" : "7",
+    "Number Of Episod" : "67",
+    "trailer" : "https://www.youtube.com/watch?v=giYeaKsXnsI",
+    "synopsis" : "Nine noble families fight for control over the mythical lands of Westeros, while a forgotten race returns after being dormant for thousands of years."
+  },
+  {
+    "type" : "serie",
+    "name" : "The Big Bang Theory",
+    "genre" : "Comedy",
+    "release date" : ""2007,
+    "Number Of Season" : "11",
+    "Number Of Episod" : "245",
+    "trailer" : "https://www.youtube.com/watch?v=WBb3fojgW0Q",
+    "synopsis" : "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory."
+  },
+  {
+    "type" : "serie",
+    "name" : "Modern Family",
+    "genre" : "Comedy",
+    "release date" : "2009",
+    "Number Of Season" : "9",
+    "Number Of Episod" : "201",
+    "trailer" : "https://www.youtube.com/watch?v=aogZUDx51vQ",
+    "synopsis" : "Three different, but related families face trials and tribulations in their own uniquely comedic ways."
+  },
+  {
+    "type" : "serie",
+    "name" : "Viking",
+    "genre" : ["Action", "Adventure"],
+    "release date" : "2013",
+    "Number Of Season" : "5",
+    "Number Of Episod" : "59",
+    "trailer" : "https://www.youtube.com/watch?v=Ts_8uk1ddJI",
+    "synopsis" : "Vikings is a historical drama television series written and created by Michael Hirst for the History channel. Vikings is inspired by the sagas of Danish Viking Ragnar Lothbrok, one of the best-known legendary Norse heroes and notorious as the scourge of England and France"
+  },
+  {
+    "type" : "serie",
+    "name" : "How I Met Your Mother",
+    "genre" : "Comedy",
+    "release date" : "2005",
+    "Number Of Season" : "9",
+    "Number Of Episod" : "208",
+    "trailer" : "https://www.youtube.com/watch?v=aJtVL2_fA5w",
+    "synopsis" : "A father recounts to his children, through a series of flashbacks, the journey he and his four best friends took leading up to him meeting their mother."
+  },
+  {
+    "type" : "serie",
+    "name" : "Weeds",
+    "genre" : ["Black comedy", "Drama"],
+    "release date" : "2005",
+    "Number Of Season" : "8",
+    "Number Of Episod" : "102",
+    "trailer" : "https://www.youtube.com/watch?v=tUZcdiflm_c",
+    "synopsis" : "When a suburban mother turns to dealing marijuana in order to maintain her privileged lifestyle after her husband dies, she finds out just how addicted her entire neighborhood already is."
+  },
+  {
+    "type" : "serie",
+    "name" : "Narcos",
+    "genre" : "Crime drama",
+    "release date" : "2015",
+    "Number Of Season" : "3",
+    "Number Of Episod" : "30",
+    "trailer" : "https://www.youtube.com/watch?v=U7elNhHwgBU",
+    "synopsis" : "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years."
+  },
+  {
+    "type" : "serie",
+    "name" : "Dexter",
+    "genre" : ["Police", "Drama"],
+    "release date" : "2006",
+    "Number Of Season" : "8",
+    "Number Of Episod" : "96",
+    "trailer" : "https://www.youtube.com/watch?v=YQeUmSD1c3g",
+    "synopsis" : "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers."
+  },
+  {
+    "type" : "serie",
+    "name" : "Elementary",
+    "genre" : "Police",
+    "release date" : "2012",
+    "Number Of Season" : "5",
+    "Number Of Episod" : "120",
+    "trailer" : "https://www.youtube.com/watch?v=nOcGCfBbi6Q",
+    "synopsis" : "A modern take on the cases of Sherlock Holmes, with the detective now living in New York City."
+  },
+  {
+    "type" : "serie",
+    "name" : "The Blacklist",
+    "genre" : "Crime Drama",
+    "release date" : "2013",
+    "Number Of Season" : "5",
+    "Number Of Episod" : "100",
+    "trailer" : "https://www.youtube.com/watch?v=-WYdUaK54fU",
+    "synopsis" : "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her."
+  },
+  {
+    "type" : "serie",
+    "name" : "Dr House",
+    "genre" : "Medical Drama",
+    "release date" : "2004",
+    "Number Of Season" : "8",
+    "Number Of Episod" : "177",
+    "trailer" : "https://www.youtube.com/watch?v=MczMB8nU1sY",
+    "synopsis" : "An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits."
+  },
+  {
+    "type" : "serie",
+    "name" : "The Simpsons",
+    "genre" : "Anime",
+    "release date" : "1989",
+    "Number Of Season" : "29",
+    "Number Of Episod" : "629",
+    "trailer" : "https://www.youtube.com/watch?v=PulHR2LfPVk",
+    "synopsis" : "The satiric adventures of a working-class family in the misfit city of Springfield."
+  },
+  {
+    "type" : "serie",
+    "name" : "Sout Park",
+    "genre" : "Anime",
+    "release date" : "1997",
+    "Number Of Season" : "21",
+    "Number Of Episod" : "287",
+    "trailer" : "https://www.youtube.com/watch?v=q9sJj0otgm8",
+    "synopsis" : "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado."
+  },
+  {
+    "type" : "serie",
+    "name" : "Trollhunters",
+    "genre" : ["Anime", "Action", "Adventure"],
+    "release date" : "2016",
+    "Number Of Season" : "2",
+    "Number Of Episod" : "39",
+    "trailer" : "https://www.youtube.com/watch?v=J2oNgZlbSKI",
+    "synopsis" : "An ordinary boy finds a magic amulet that turns him into the next Troll Hunter; the champion of both the hidden world of Trolls and his own."
+  },
+  {
+    "type" : "serie",
+    "name" : "Orange Is The New Black",
+    "genre" : "Comedy Dramatic",
+    "release date" : "2013",
+    "Number Of Season" : "5",
+    "Number Of Episod" : "65",
+    "trailer" : "https://www.youtube.com/watch?v=vY0qzXi5oJg",
+    "synopsis" : "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life changing prison can really be."
+  },
+  {
+    "type" : "serie",
+    "name" : "Sense 8",
+    "genre" : "Science-Fiction",
+    "release date" : "2015",
+    "Number Of Season" : "2",
+    "Number Of Episod" : "23",
+    "trailer" : "https://www.youtube.com/watch?v=iKpKAlbJ7BQ",
+    "synopsis" : "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world's order."
+  },
+  {
+    "type" : "serie",
+    "name" : "Stranger Things",
+    "genre" : ["Horror", "Science-Fiction"],
+    "release date" : "2016",
+    "Number Of Season" : "2",
+    "Number Of Episod" : "17",
+    "trailer" : "https://www.youtube.com/watch?v=XWxyRG_tckY",
+    "synopsis" : "When a young boy disappears, his mother, a police chief, and his friends, must confront terrifying forces in order to get him back."
+  },
+  {
+    "type" : "serie",
+    "name" : "Westworld",
+    "genre" : "Science-Fiction",
+    "release date" : "2016",
+    "Number Of Season" : "1",
+    "Number Of Episod" : "10",
+    "trailer" : "https://www.youtube.com/watch?v=IuS5huqOND4",
+    "synopsis" : "Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence."
+  },
+  {
+    "type" : "serie",
+    "name" : "Black Mirror",
+    "genre" : "Psychological thriller",
+    "release date" : "2011",
+    "Number Of Season" : "4",
+    "Number Of Episod" : "19",
+    "trailer" : "https://www.youtube.com/watch?v=jROLrhQkK78",
+    "synopsis" : "An anthology series exploring a twisted, high-tech world where humanity's greatest innovations and darkest instincts collide."
+  },
+  {
+    "type" : "serie",
+    "name" : "Legion",
+    "genre" : ["Science-Fiction", "Superhero"],
+    "release date" : "2017",
+    "Number Of Season" : "1",
+    "Number Of Episod" : "8",
+    "trailer" : "https://www.youtube.com/watch?v=4SZ3rMMYBLY",
+    "synopsis" : "David Haller is a troubled young man diagnosed as schizophrenic, but after a strange encounter, he discovers special powers that will change his life forever."
+  },
+  {
+    "type" : "serie",
+    "name" : "The End of the Fucking World ",
+    "genre" : "Dark Comedy",
+    "release date" : "2017",
+    "Number Of Season" : "1",
+    "Number Of Episod" : "8",
+    "trailer" : "https://www.youtube.com/watch?v=vbiiik_T3Bo",
+    "synopsis" : "The short film that became a pilot for the TV series 'The End of the F**king World'"
+  }
+]

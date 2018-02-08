@@ -1,0 +1,277 @@
+*{font-family: 'Questrial', sans-serif;
+}
+html{
+  background-image:url(imgHead/background.jpg);
+  backface-visibility: hidden;
+  position: absolute;
+
+}
+body {
+margin: 0;
+padding: 0;
+background-color:white;
+width:100%
+}
+#navbarDropdown{
+  margin-left: 3em;
+  margin-top: 2em
+}
+#searchBar{
+  border-radius: 20px;
+  width:20em
+}
+#searchButton{
+border-radius: 20px;
+font-weight: bold;
+}
+.nav-link{
+  margin-top: 3em
+}
+
+.carousel {
+
+  width: 100%;
+  min-width: 100%;
+  align-self: center;
+  margin: 0 auto;
+  height: 60em;
+
+
+}
+.carousel-indicators .active{
+  background: #FF3835;
+}
+.carousel-caption {
+  bottom: 18rem;
+  z-index: 10;
+
+}
+#logo{
+  font-weight: 1000;
+  font-size: 40px;
+}
+
+.carousel-caption h1 {
+  font-weight: 1000;
+  font-size: 50px;
+}
+.carousel-caption h6 {
+  opacity: 0.6;
+  font-size: 16px;
+  letter-spacing: 4px;
+  font-weight: 600;
+  margin-bottom: 5em
+}
+
+.carousel-item {
+  height: 60rem;
+  background-color:
+
+
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-width: 100%;
+  height: 60rem;
+}
+#registration{
+  background-color: #FF3835;
+  height: 7em;
+  margin-top: 0;
+  margin: 0;
+  align-items: center;
+  color: white;
+  width :100%;
+  margin-bottom: 3em
+}
+
+
+.regiButtons{
+  background-color: black;
+  color: white;
+  border: none;
+  font-size: 12px;
+  padding: 14px 25px;
+  font-weight: 700;
+}
+
+.card img{
+  height: 16em;
+  margin-top: 1em;
+  justify-content: center;
+  margin-left: 0.2em;
+  min-width: 100%
+
+}
+.card-text{
+  font-size: 10px;
+  font-weight: 700;
+  margin :0em;
+  text-align: center;
+
+}
+.card-body{
+  height: 2.6em;
+  padding:0.1rem;
+  border :none
+}
+.Decks-Separate{
+  margin-top: 3.5em;
+  border-left:4px solid #FF3835;
+  height: 3em;
+  margin-bottom: 3em;
+  margin-left: 4em;
+  letter-spacing: 5px
+
+}
+.Decks-Separate h4 {
+  margin-left: 0.75em;
+  font-size: 24px;
+  margin-bottom: 0;
+  font-weight: bolder;
+  text-indent: 1px;
+  padding-top: 0.4em;
+}
+
+
+.card h6{
+  font-size: 12px;
+  font-weight: 700;
+}
+.cardDEckButton{
+display: flex;
+justify-content: center;
+margin-top: 2.5em;
+}
+#cardButton{
+background-color:#FF3835;
+color: white;
+border: none;
+font-size: 18px;
+padding: 12px 22px;
+font-weight: 700;
+margin-bottom: 2em
+}
+
+
+
+footer{
+background-color: black;
+width: 100%;
+
+padding-bottom: 2em
+
+}
+#footerSocial {
+margin-top: 3em;
+display: flex;
+justify-content: center;
+font-size: 15px
+}
+#footerSocial i {
+font-size: 40px;
+color :white
+ }
+
+
+#icons{
+border-radius: 50%;
+background: #FF3835;
+margin-top: 1.5em
+}
+
+.modal-header, .close {
+    background-color:
+    color:white !important;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+.modal-footer {
+    background-color: #FFFFFF;
+    flex-direction: column-reverse;
+}
+.modal-header .close{
+  margin:0px
+}
+@media (max-width:60em) {
+.row {display: none;}
+.carousel{display: none}
+footer{background: white;}
+#searchBar{width: 80%}
+#searchButton{display: none;}
+img{width: 100%}
+.card{
+  width:70%;
+  margin:0 auto
+   }
+.w3-button{
+     margin: 0 auto;
+   }
+.container-fluid{
+  width:100%
+}
+#hiddenIcon{
+  display: none;
+}
+}
+
+.card {
+    border: none;
+    padding: 5px;
+    box-shadow: 5px 10px 8px #888888;
+    border-radius: 0px;
+    width: 100%;
+    margin-bottom: 3em
+ }
+.hover{
+  opacity: 0.7
+}
+#image-footer{
+  width: 6.1em
+}
+#listFooter {
+  list-style: none;
+}
+
+.movie-item{
+  display: flex;
+  flex-wrap:
+
+}
+main{
+  justify-content: center;
+  align-items: center;
+
+}
+hr{
+  opacity:0
+}
+.container-fluid{
+  width: 70%
+}
+#nav{
+  width: 100%
+}
+#contactform{
+width: 100%
+
+}
+#hidden{
+  display: none;
+}
+#show{
+  display: flex;
+
+}
+#cookie-notification{
+    position : fixed;
+    bottom : 10px;
+    right : 10px;
+    z-index : 99999;
+    //more of your styles ..
+ }
